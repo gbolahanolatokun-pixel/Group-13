@@ -1,0 +1,20 @@
+Hello, World! This is a sample text file for testing the cryptography CLI application.
+
+This file contains:
+- Multiple lines of text
+- Various punctuation marks: !@#$%^&*()
+- Numbers: 1234567890
+- Mixed case letters: Hello World
+- Special characters: éñüß
+
+The quick brown fox jumps over the lazy dog.
+Pack my box with five dozen liquor jugs.
+How vexingly quick daft zebras jump!
+
+This text will be used to test:
+1. File encryption with different ciphers
+2. File decryption to verify accuracy
+3. Frequency analysis of encrypted content
+4. Security assessment of various cipher types
+
+End of sample file. 
